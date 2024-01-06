@@ -1,0 +1,9 @@
+{
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "typescript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "yaml.format.singleQuote": true,
+    "editor.acceptSuggestionOnCommitCharacter": false
+}
